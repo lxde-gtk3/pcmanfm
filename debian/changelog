@@ -1,3 +1,9 @@
+pcmanfm (99.1.3.2-gtk3) unstable; urgency=medium
+  
+  * Merging upstream 1.3.2
+  
+ -- Ali Riza Keskin <parduscix@yandex.ru> 
+
 pcmanfm (1.3.1-gtk3) unstable; urgency=medium
   
   * Porting gtk3
